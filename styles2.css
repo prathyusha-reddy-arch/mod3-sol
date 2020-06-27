@@ -34,18 +34,14 @@ h1{
       text-align:center;
 	  }
 #nav{
-	width:750px;
-	margin:0 auto;
-        list-style:none;
+	text-align:center;
 }
 #nav li {
-	float:left;
+	displaa:inline;
 }
 #nav a{
-	display:block;
-	text-slign:center;
-	width:150px;
 	text-decoration:none;
+	padding:0 30px;
 }
 	 .data{
 		  
