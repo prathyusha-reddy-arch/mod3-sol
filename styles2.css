@@ -35,9 +35,10 @@ h1{
 	  }
 #nav{
 	text-align:center;
+	position:static;
 }
 #nav li {
-	displaa:inline;
+	display:inline;
 }
 #nav a{
 	text-decoration:none;
