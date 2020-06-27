@@ -33,7 +33,20 @@ h1{
    h1{
       text-align:center;
 	  }
-	 
+#nav{
+	width:750px;
+	margin:0 auto;
+        list-style:none;
+}
+#nav li {
+	float:left;
+}
+#nav a{
+	display:block;
+	text-slign:center;
+	width:150px;
+	text-decoration:none;
+}
 	 .data{
 		  
 		  font-size:15pt;
