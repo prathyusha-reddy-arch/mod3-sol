@@ -1,23 +1,8 @@
 body{
 	font-size:16px;
-	 /*	color:#fff;
-background-color:#61122f;*/
+	
 }
 
-/*.titlee{
-	text-decoration:none;
-	font-size:16pt;
-	color:#f6b319;
-	
-	position:relative;
-	float:left;
-}
-.menustyle{
-	
-	text-decoration:none
-	
-	
-}*/
 h1{
 	color:solid black;
 
@@ -30,22 +15,12 @@ h1{
       text-align:center;
 	  }
 	 
-	/* .data{
-		  
-		  font-size:15pt;
-		    
-	 }
-	 .subhead{
-		 font-size:15pt;
-	 }*/
+	
 	 .row{
 		 width:100%;
 		 padding:auto;
 	 }
-/*.col-12{
-	
-	
-}*/
+
 #header-nav {
   
     border-radius: 0;
@@ -124,29 +99,7 @@ h1{
 }
 
 
-/*
-.button1 {
-    margin-top: 10px;
-	/*background-color:pink;
-	text-align:right;
-	position:relative;
-	float:right  !important;
 	
-	
-	
-	
-}
-
-
-
-.col-centered{
-	display:inline-block;
-	float:none;
-	text-align:left;
-	margin-right:-4px;
-	text-align:center;
-	border:1px solid #ddd;
-}*/
  .dropdown { 
             position: relative !important;
            float:right;
