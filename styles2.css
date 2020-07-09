@@ -19,7 +19,7 @@ h1{
 	 .row{
 		 width:100%;
 		 padding:auto;
-		 background-color:gray;
+		 background-color:#6c757d;;
 	 }
 
 #header-nav {
@@ -32,13 +32,13 @@ h1{
 	padding:10px;
 	border:50px;
 	margin:700px;
-	background-color:gray;
+	background-color:#6c757d;;
 
 }
 .col-lg-11{
 	padding:2px;
 	border:2px;
-	background-color:gray;
+	background-color:#6c757d;;
 	margin:10px;
 }
 .navbar-toggler-icon{
